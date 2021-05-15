@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-App1/static/css/main.2dcfbf99.chunk.css",
+    "main.js": "/React-App1/static/js/main.47657a54.chunk.js",
+    "main.js.map": "/React-App1/static/js/main.47657a54.chunk.js.map",
+    "runtime-main.js": "/React-App1/static/js/runtime-main.6aac8cd9.js",
+    "runtime-main.js.map": "/React-App1/static/js/runtime-main.6aac8cd9.js.map",
+    "static/js/2.ba8f3fdc.chunk.js": "/React-App1/static/js/2.ba8f3fdc.chunk.js",
+    "static/js/2.ba8f3fdc.chunk.js.map": "/React-App1/static/js/2.ba8f3fdc.chunk.js.map",
+    "static/js/3.e31c16be.chunk.js": "/React-App1/static/js/3.e31c16be.chunk.js",
+    "static/js/3.e31c16be.chunk.js.map": "/React-App1/static/js/3.e31c16be.chunk.js.map",
+    "index.html": "/React-App1/index.html",
+    "static/css/main.2dcfbf99.chunk.css.map": "/React-App1/static/css/main.2dcfbf99.chunk.css.map",
+    "static/js/2.ba8f3fdc.chunk.js.LICENSE.txt": "/React-App1/static/js/2.ba8f3fdc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-App1/static/media/bg-desktop.6824779f.svg",
+    "static/media/illustration-mockups.264994a5.svg": "/React-App1/static/media/illustration-mockups.264994a5.svg",
+    "static/media/logo.2b3c07e4.svg": "/React-App1/static/media/logo.2b3c07e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aac8cd9.js",
+    "static/js/2.ba8f3fdc.chunk.js",
+    "static/css/main.2dcfbf99.chunk.css",
+    "static/js/main.47657a54.chunk.js"
+  ]
+}
